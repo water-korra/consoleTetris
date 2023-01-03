@@ -8,6 +8,7 @@ $ npm install
 ```
 
 ```bash
+$ cd game
 $ node main.js input.txt
 ```
 ###To test it :
